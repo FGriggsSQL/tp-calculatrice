@@ -10,7 +10,7 @@ class TestCalculatrice(unittest.TestCase):
         self.assertEqual(soustraction(10, 4), 6)
 
     def test_multiplication(self):
-        self.assertEqual(multiplication(2, 5), 10)
+        self.assertEqual(multiplication(2, 7), 10)
 
     def test_division(self):
         self.assertEqual(division(10, 2), 5)

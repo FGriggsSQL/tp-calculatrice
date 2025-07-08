@@ -1,4 +1,4 @@
-name: Python Tests
+name: Tests Calculatrice
 
 on: [push, pull_request]
 
