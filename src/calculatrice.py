@@ -1,3 +1,4 @@
+#Fonction d'addition, soustraction, multiplication et division simple
 def addition(a, b):
     return a + b
 
